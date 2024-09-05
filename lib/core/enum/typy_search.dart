@@ -1,0 +1,1 @@
+enum TypeSearch { inDrug, inCategory }

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "377233875808",
+    "firebase_url": "https://bio-medika-default-rtdb.firebaseio.com",
+    "project_id": "bio-medika",
+    "storage_bucket": "bio-medika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377233875808:android:c70a769a8781b06dc6b405",
+        "android_client_info": {
+          "package_name": "com.example.bio_medika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwH68E4_hgXvEEqBsdSc1wkeDg4n2GwMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377233875808:android:9522da89f23e2542c6b405",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwH68E4_hgXvEEqBsdSc1wkeDg4n2GwMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

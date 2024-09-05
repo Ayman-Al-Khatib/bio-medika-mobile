@@ -1,0 +1,1 @@
+enum TypePick { camera, gallery }
