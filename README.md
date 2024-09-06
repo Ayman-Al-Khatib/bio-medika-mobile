@@ -110,61 +110,57 @@ With **Bio Medika**, pharmacy owners can seamlessly browse a comprehensive catal
 
 - **Shopping Basket and Order Processing** 🛒  
   *Manage multiple items in a shopping basket, adjust quantities, and place orders with drug warehouses efficiently.*
+  
+# Screenshots 📸
 
----
-
-
-# Screenshots
-
-Explore the intuitive and user-friendly design of the Bio Medika app through these mockups. See how the streamlined interface facilitates easy navigation and efficient management of medicine orders.
+Explore the intuitive and user-friendly design of the **Bio Medika** app through these mockups. 🖼️ See how the streamlined interface facilitates easy navigation 🧭 and efficient management of medicine orders 💊.
 
 <div style="text-align: center;">
   <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/1.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/2.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/3.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/4.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/5.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/1.png" style="width: 19%;" />
+    <img src="assets/screenshots/2.png" style="width: 19%;" />
+    <img src="assets/screenshots/3.png" style="width: 19%; " />
+    <img src="assets/screenshots/4.png" style="width: 19%; " />
+    <img src="assets/screenshots/5.png" style="width: 19%; " />
   </div>
   <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/6.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/7.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/8.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/9.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/10.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/6.png" style="width: 19%;" />
+    <img src="assets/screenshots/7.png" style="width: 19%;" />
+    <img src="assets/screenshots/8.png" style="width: 19%; " />
+    <img src="assets/screenshots/9.png" style="width: 19%; " />
+    <img src="assets/screenshots/10.png" style="width: 19%; " />
   </div>
   <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/11.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/12.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/13.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/14.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/15.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/11.png" style="width: 19%;" />
+    <img src="assets/screenshots/12.png" style="width: 19%;" />
+    <img src="assets/screenshots/13.png" style="width: 19%; " />
+    <img src="assets/screenshots/14.png" style="width: 19%; " />
+    <img src="assets/screenshots/15.png" style="width: 19%; " />
   </div>
   <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/16.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/17.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/18.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/19.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/20.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/16.png" style="width: 19%;" />
+    <img src="assets/screenshots/17.png" style="width: 19%;" />
+    <img src="assets/screenshots/18.png" style="width: 19%; " />
+    <img src="assets/screenshots/19.png" style="width: 19%; " />
+    <img src="assets/screenshots/20.png" style="width: 19%; " />
   </div>
 
  <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/21.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/22.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/23.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/24.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/25.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/21.png" style="width: 19%;" />
+    <img src="assets/screenshots/22.png" style="width: 19%;" />
+    <img src="assets/screenshots/23.png" style="width: 19%; " />
+    <img src="assets/screenshots/24.png" style="width: 19%; " />
+    <img src="assets/screenshots/25.png" style="width: 19%; " />
   </div>
 
 
   <div style="margin: 0; padding: 0;">
-    <img src="assets/screenshots/26.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/27.png" style="width: 19.6%;" />
-    <img src="assets/screenshots/28.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/29.png" style="width: 19.6%; " />
-    <img src="assets/screenshots/30.png" style="width: 19.6%; " />
+    <img src="assets/screenshots/26.png" style="width: 19%;" />
+    <img src="assets/screenshots/27.png" style="width: 19%;" />
+    <img src="assets/screenshots/28.png" style="width: 19%; " />
+    <img src="assets/screenshots/29.png" style="width: 19%; " />
+    <img src="assets/screenshots/30.png" style="width: 19%; " />
   </div>
 
 </div>
 
----
